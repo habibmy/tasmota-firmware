@@ -1,0 +1,17 @@
+{
+    "name": "RC522 Tasmota (english)",
+    "new_install_prompt_erase": true,
+    "new_install_improv_wait_time": 10,
+    "builds": [
+        {
+            "chipFamily": "ESP32",
+            "improv": true,
+            "parts": [
+                {
+                    "path": "https://github.com/habibmy/tasmota-firmware/raw/main/firmware.bin",
+                    "offset": 0
+                }
+            ]
+        }
+    ]
+}
