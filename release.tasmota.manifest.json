@@ -8,7 +8,7 @@
             "improv": true,
             "parts": [
                 {
-                    "path": "https://github.com/habibmy/tasmota-firmware/raw/main/firmware.bin",
+                    "path": "https://raw.githubusercontent.com/habibmy/tasmota-firmware/main/firmware.bin",
                     "offset": 0
                 }
             ]
